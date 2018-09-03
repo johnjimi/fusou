@@ -33,7 +33,7 @@
                 <strong>Email:</strong> <a href="mailto:beer@fsu.io?Subject=Website%20Inquiry" target="_top"> </a></br>
                 <strong>Event Location:</strong><a href="" target="_blank"> </a>
             </p>
-        </div>
+        </div> 
     </div>
 </div>
 
